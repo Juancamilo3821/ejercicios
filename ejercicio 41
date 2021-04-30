@@ -7,3 +7,7 @@ while True:
             break
         else:
             print(n1, "y", n2, "--->", False)
+            break
+    except:
+        print("Ingresa bien los numeros")
+
